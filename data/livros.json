@@ -1,0 +1,43 @@
+[
+  {
+    "titulo": "Alice no País das Maravilhas",
+    "autor": "Lewis Carroll",
+    "ano": 1865,
+    "genero": "Fantasia",
+    "lido": true
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "ano": 1949,
+    "genero": "Distopia",
+    "lido": false
+  },
+  {
+    "titulo": "O Pequeno Príncipe",
+    "autor": "Antoine de Saint-Exupéry",
+    "ano": 1943,
+    "lido": true
+  },
+  {
+    "titulo": "Cortiço",
+    "autor": "Aluísio Azevedo",
+    "ano": 1890,
+    "genero": "Realismo",
+    "lido": false
+  },
+  {
+    "titulo": "Saboroso Cadaver",
+    "autor": "H.P. Lovecraft",
+    "ano": 1928,
+    "genero": "Terror",
+    "lido": true
+  },
+  {
+    "titulo": "Mentirosos",
+    "autor": "E. Lockhart",
+    "ano": 2014,
+    "genero": "Mistério",
+    "lido": false
+  }
+]
